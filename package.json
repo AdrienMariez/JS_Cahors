@@ -1,0 +1,28 @@
+{
+  "name": "exo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Alexis Girard",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "merge-stream": "^1.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
